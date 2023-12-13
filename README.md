@@ -1,4 +1,4 @@
-# ENTER TITLE OF PROJECT HERE
+# NFL DATA
 
 Enter basic description of project here in 1-2 sentences.
 
