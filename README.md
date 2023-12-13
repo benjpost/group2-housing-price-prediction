@@ -1,4 +1,5 @@
 # Housing Price Predictions
+(NOTE: Tke .pkl file was too large to push to github. The house-price-prediction.ipynb file code blocks must be run to generate the pkl file.)
 (To run:  pip install numpy pandas matplotlib seaborn scikit-learn)
 (Credit to NeuralNine on youtube, https://www.youtube.com/watch?v=Wqmtf9SA_kk)
 
