@@ -1,4 +1,4 @@
-# NFL DATA
+# Housing Price Prediction
 
 Enter basic description of project here in 1-2 sentences.
 
