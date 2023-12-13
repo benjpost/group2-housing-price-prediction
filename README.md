@@ -1,6 +1,8 @@
 # Housing Price Predictions
+(To run:  pip install numpy pandas matplotlib seaborn scikit-learn)
+(Credit to NeuralNine on youtube, https://www.youtube.com/watch?v=Wqmtf9SA_kk)
 
-Enter basic description of project here in 1-2 sentences.
+The purpose of this project is to create a machine learning model that will predict housing prices in upcoming years, based on different properties of the house (i.e square feet, bedroom #, bathroom #, etc).
 
 ## TOC
 
