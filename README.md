@@ -1,4 +1,4 @@
-# Housing Price Prediction
+# Housing Price Predictions
 
 Enter basic description of project here in 1-2 sentences.
 
